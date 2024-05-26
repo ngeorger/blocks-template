@@ -196,7 +196,7 @@
     }
   ],
   "dependencies": {
-    "@excalidraw/excalidraw": "^0.10.0",
+    "@excalidraw/excalidraw": "^0.17.6",
     "@fullstackio/cq": "^6.0.9",
     "@fullstackio/remark-cq": "^6.1.2",
     "@githubnext/utils": "^0.12.3",
@@ -255,6 +255,6 @@
     "esbuild": "^0.13.14",
     "npm-watch": "^0.11.0",
     "typescript": "^4.3.2",
-    "vite": "^2.6.4"
+    "vite": "^5.2.11"
   }
 }
